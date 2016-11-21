@@ -1,0 +1,19 @@
+{
+  "name": "genny",
+  "version": "1.0.0",
+  "description": "",
+  "main": "purchaseOrder.js",
+  "scripts": {
+    "test": "istanbul cover node_modules/.bin/_mocha test/**/*"
+  },
+  "keywords": [],
+  "author": "Dylan Harness <dharness.student@gmail.com> (dharness.github.io)",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "3.1.2"
+  },
+  "dependencies": {
+    "chai": "3.5.0",
+    "istanbul": "0.4.5"
+  }
+}
